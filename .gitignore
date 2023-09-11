@@ -1,0 +1,5 @@
+.env
+*.txt
+**/DB
+**/tokenizer
+*.pyc
