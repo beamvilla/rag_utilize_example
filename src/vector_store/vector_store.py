@@ -1,4 +1,3 @@
-import os
 from typing import List
 
 from langchain.vectorstores import Chroma
